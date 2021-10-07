@@ -3,7 +3,7 @@ This project demonstrates a complete linear regression analysis on a Melbourne h
 
 The written report (pdf) includes:
 
-• Description of the dataset
+• Description of the dataset 
 • Problem Statement
 
 • Summary of methods
